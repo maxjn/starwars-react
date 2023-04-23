@@ -1,6 +1,8 @@
 # Starwars - React Query & Router Practice
 
 This is a simple practical application for practicing React Router and Ract-Query.
+
+See [Live Project](https://maxjn-starwars.pages.dev/).
 This Project was bootstrapped with [Vite](https://vitejs.dev/).
 
 ## Technologies
