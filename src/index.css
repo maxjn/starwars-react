@@ -47,7 +47,7 @@ a.active {
   margin: 10px 0;
   color: #ffff57;
 }
-a:disabled {
-  opacity: 0.2;
-  cursor: not-allowed;
+
+.pag-icon {
+  vertical-align: middle;
 }
