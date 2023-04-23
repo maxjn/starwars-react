@@ -1,11 +1,11 @@
 import React from "react";
 
-function PersonCard() {
+function PersonCard({ person }) {
   return (
     <div className="card">
-      <h3>{}</h3>
-      <p>Gender - {}</p>
-      <p>Birth year - {}</p>
+      <h3>{person.name}</h3>
+      <p>Gender - {person.gender}</p>
+      <p>Birth year - {person.birth_year}</p>
     </div>
   );
 }

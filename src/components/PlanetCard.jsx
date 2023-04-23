@@ -1,11 +1,11 @@
 import React from "react";
 
-function PlanetCard() {
+function PlanetCard({ planet }) {
   return (
     <div className="card">
-      <h3>{}</h3>
-      <p>Population - {}</p>
-      <p>Terrain - {}</p>
+      <h3>{planet.name}</h3>
+      <p>Population - {planet.population}</p>
+      <p>Terrain - {planet.terrain}</p>
     </div>
   );
 }
