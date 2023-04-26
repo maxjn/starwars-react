@@ -7,7 +7,7 @@ This Project was bootstrapped with [Vite](https://vitejs.dev/).
 
 ## Technologies
 
-- HTML,CSS
+- JSX,CSS
 - ES6
 - React
 - **react-router-dom** package for routing
